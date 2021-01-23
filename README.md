@@ -1,4 +1,4 @@
-# Type_to_Speak
+# Type_to_Listen
 This Program makes your Device speak what you typed. But firstly you will need to install a modeule named 'pyttsx3'. It is a offline Text-to-Speech conversion module. Just open your Terminal/CMD/Powershell and type in:
 ```
 pip install pyttsx3
